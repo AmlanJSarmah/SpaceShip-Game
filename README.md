@@ -6,7 +6,7 @@ A spaceship game created using Python as a prject for the CSE2003 Python Program
    ```
    pip install pygame
    ```
-   or
+   or (for UNIX based OS)
    ```
    pip3 install pygame
    ```
@@ -16,7 +16,7 @@ A spaceship game created using Python as a prject for the CSE2003 Python Program
    ```
    python3 main.py
    ```
-   or
+   or (for UNIX bases OS)
    ```
    python main.py
    ```
