@@ -1,5 +1,5 @@
 # SpaceShip-Game
-A spaceship game created using Python as a prject for the CSE2003 Python Programming Course, the game works on any operating system.
+A spaceship game created using Python as a final project for the Python Programming (CSE3011) Course, the game works on any operating system.
 
 ## Installation instructions
 1. Install pygame using pip
